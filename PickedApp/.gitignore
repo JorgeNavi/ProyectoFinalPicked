@@ -1,0 +1,28 @@
+# Archivos generados por Xcode
+build/
+DerivedData/
+
+# Archivos de usuario de Xcode
+*.xcuserdata
+*.xcuserstate
+
+# Configuraciones personales
+*.swp
+*.lock
+*.log
+
+# Archivos del sistema
+.DS_Store
+
+# Carthage
+Carthage/Build/
+
+# CocoaPods
+Pods/
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# Archivos de entorno
+.env

@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  PickedApp
+
+  Created by Kevin Heredia on 27/4/25.
+  
+*/
+"Restaurants" = "Restaurantes";
+"New to Picked?" = "¿Nuevo en Picked?";
+"Sign Up here" = "Regístrate aquí";
+"Consumer" = "Consumidor";
+"Are you a restaurant owner or a consumer?" = "¿Eres dueño de un restaurante o consumidor?";
+"Restaurant" = "Restaurante";
+"Consumer Register" = "Registro de Consumidor";
+"Restaurant Register" = "Registro de Restaurante";
+"Country" = "País";
+"City" = "Ciudad";
+"Address" = "Dirección";
+"Zip Code" = "Código Postal";
+"Restaurant name" = "Nombre del Restaurante";
+"Take a photo or choose from gallery" = "Toma una foto o elige de la galería";
+"Register" = "Registrarse";
+"My Dishes" = "Mis Platos";
+"loading meals..." = "cargando platos...";
+"Loading..." = "Cargando...";
+"Something went wrong" = "Algo salió mal";
+"Please try again" = "Por favor, inténtalo de nuevo.";
+"Go back" = "Volver";
+"Home" = "Inicio";
+"Map" = "Mapa";
+"Profile" = "Perfil";
+"User Profile" = "Perfil de Usuario";
+"Log Out" = "Cerrar sesión";
+"All" = "Todos";
+"Search" = "Buscar";
+"All Dishes" = "Todos los Platos";
+"Description" = "Descripción";
+"Food Type" = "Tipo de Comida";
+"Price" = "Precio";
+"Units" = "Unidades";
+"Take a picture or select one from gallery" = "Toma una foto o selecciona una de la galería";
+"Add" = "Añadir";
+"Sign Up" = "Registrarse";

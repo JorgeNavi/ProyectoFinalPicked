@@ -1,0 +1,122 @@
+[
+    {
+        "zipCode": "94109",
+        "city": "San Francisco",
+        "longitude": -122.4225016,
+        "country": "Estados Unidos",
+        "info": "Conocido por su ambiente clásico y su especialidad en costillas de res, este restaurante ofrece una experiencia culinaria tradicional estadounidense.",
+        "createdAt": "2025-04-23T00:00:00Z",
+        "photo": "/restaurant_photos/F6213AAA-D6FF-4F71-B527-070C86A940EE.jpg",
+        "updatedAt": "2025-04-23T00:00:00Z",
+        "id": "7540F020-D674-4BE0-B978-24126E542D04",
+        "editor": {
+            "id": null
+        },
+        "name": "House of Prime Rib",
+        "user": {
+            "id": "04991083-ADD4-4A19-8BB2-8E269D8833CB"
+        },
+        "latitude": 37.7933807,
+        "address": "1906 Van Ness Ave"
+    },
+    {
+        "zipCode": "94110",
+        "city": "San Francisco",
+        "longitude": -122.4192518,
+        "country": "Estados Unidos",
+        "info": "Ofrece una experiencia única al combinar cocina californiana con la proyección de películas clásicas en su patio al aire libre.​",
+        "createdAt": "2025-04-23T00:00:00Z",
+        "photo": "/restaurant_photos/6AF3DBFF-B6BD-4FBD-93C0-0A5F46D291D6.jpg",
+        "updatedAt": "2025-04-23T00:00:00Z",
+        "id": "1CC411CC-1B79-44B0-952A-3C4D65CC0C12",
+        "editor": {
+            "id": null
+        },
+        "name": "Foreign Cinema",
+        "user": {
+            "id": "6769B9AB-07FF-4085-B6F5-66E7359D6725"
+        },
+        "latitude": 37.7564709,
+        "address": "2534 Mission St"
+    },
+    {
+        "zipCode": "94102",
+        "city": "San Francisco",
+        "longitude": -122.4215686,
+        "country": "Estados Unidos",
+        "info": "Famoso por su pollo asado en horno de leña y su enfoque en ingredientes locales y de temporada.​",
+        "createdAt": "2025-04-23T00:00:00Z",
+        "photo": "/restaurant_photos/8173D3DD-24B5-40B4-8AF1-213B0A236D82.jpg",
+        "updatedAt": "2025-04-23T00:00:00Z",
+        "id": "CFC2940B-AD29-406B-9D03-D831160011EF",
+        "editor": {
+            "id": null
+        },
+        "name": "Zuni Café",
+        "user": {
+            "id": "3AFF3335-B64D-4421-A1C3-2B47E61F5AAB"
+        },
+        "latitude": 37.7735769,
+        "address": "1658 Market St "
+    },
+    {
+        "zipCode": "94109",
+        "city": "San Francisco",
+        "longitude": -122.4209239,
+        "country": "Estados Unidos",
+        "info": "Un pequeño pero icónico lugar para disfrutar de mariscos frescos, especialmente ostras y cangrejo.​",
+        "createdAt": "2025-04-23T00:00:00Z",
+        "photo": "/restaurant_photos/98E0BDE1-8E64-42D4-9615-D6DBA1245332.jpg",
+        "updatedAt": "2025-04-23T00:00:00Z",
+        "id": "1E336056-DACF-4901-938E-D22ABF81BD16",
+        "editor": {
+            "id": null
+        },
+        "name": "Swan Oyster Depot",
+        "user": {
+            "id": "65ECCE0B-B01B-4FD2-8137-042D8316D16F"
+        },
+        "latitude": 37.7909161,
+        "address": "1517 Polk St"
+    },
+    {
+        "zipCode": "94115",
+        "city": "San Francisco",
+        "longitude": -122.4329738,
+        "country": "Estados Unidos",
+        "info": "Restaurante example",
+        "createdAt": "2025-04-24T00:00:00Z",
+        "photo": "/restaurant_photos/6CE83993-A9FC-4FAC-9FF6-F545765DA581.jpg",
+        "updatedAt": "2025-04-24T00:00:00Z",
+        "id": "8226B4AE-42C5-480B-9032-5CB20DF98447",
+        "editor": {
+            "id": null
+        },
+        "name": "Restaurante example",
+        "user": {
+            "id": "5F0DD1E1-0A99-4F13-B695-C9E68C47E503"
+        },
+        "latitude": 37.7837361,
+        "address": "1529 Fillmore St"
+    },
+    {
+        "info": "Conocido por su cocina californiana contemporánea y su ambiente animado, especialmente durante las cenas tardías.​\n\n",
+        "address": "560 Divisadero St",
+        "city": "San Francisco",
+        "photo": "/restaurant_photos/02BB04BE-BD0E-4DBC-B088-C131B5B944E2.jpg",
+        "id": "A92761D7-5388-4183-AEF2-308E47C46588",
+        "zipCode": "94117",
+        "country": "Estados Unidos",
+        "name": "Nopa",
+        "latitude": 37.774882,
+        "updatedAt": "2025-04-24T00:00:00Z",
+        "longitude": -122.4374781,
+        "user": {
+            "id": "72563BB1-F294-459A-B303-7A6A556FCD0A"
+        },
+        "createdAt": "2025-04-24T00:00:00Z",
+        "editor": {
+            "id": null
+        }
+    }
+]

@@ -1,0 +1,32 @@
+{
+    "latitude": 29.4365866,
+    "photo": "/restaurant_photos/58D131BA-A84C-41C6-8C8F-3D66F30A861A.jpg",
+    "zipCode": "78253",
+    "longitude": -98.733181,
+    "id": "516379B2-AECA-405A-87D3-B202F778EE6B",
+    "country": "United States",
+    "name": "Restaurant Kevin",
+    "address": "411, aspen canyon",
+    "info": "Comida tipica",
+    "city": "San antonio",
+    "meals": [
+        {
+            "photo": "/restaurant_photos/05109A06-E736-4D80-AE90-8095F28A1940.png",
+            "id": "B1F57379-F427-4903-AB71-D654C4895A15",
+            "price": 2.5,
+            "name": "Locro de papa"
+        },
+        {
+            "photo": "/restaurant_photos/10DED94D-5106-4CE1-96F6-98F813656B02.png",
+            "id": "DB3EE75C-3B64-4FAC-8D16-18CD9ED505CF",
+            "price": 5,
+            "name": "Ceviche de camarón"
+        },
+        {
+            "photo": "/restaurant_photos/BFFEDC55-107D-4730-9160-5AC5545C6980.png",
+            "id": "B59551BF-7B1F-481E-A5E6-0CD0D9C7FCEE",
+            "price": 4,
+            "name": "Hornado"
+        }
+    ]
+}
